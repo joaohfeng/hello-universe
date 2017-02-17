@@ -1,0 +1,3 @@
+Criando diretorio e arquivo pelo comando "vim caminho/f3"
+
+Obs: NAO escreva "vim /caminho/f3" pois ele ira entender que o acesso é no diretorio raiz
